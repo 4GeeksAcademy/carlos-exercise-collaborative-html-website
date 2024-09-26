@@ -18,11 +18,13 @@ body{
     font-size: 60px;
 }
 
-.cards-todas{
-    border: 0;
-    
-}
-
 .cards-todas h5 {
     color:rgb(35, 94, 170) 
+}
+
+.formulario{
+    width: 80%;
+    justify-content: center;
+    background-color: rgb(224, 224, 224);
+    border-radius: 5px;
 }
