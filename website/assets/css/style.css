@@ -15,5 +15,14 @@ body{
 }
 
 .jumbotron h2 {
-    font-size: 60px
+    font-size: 60px;
+}
+
+.cards-todas{
+    border: 0;
+    
+}
+
+.cards-todas h5 {
+    color:rgb(35, 94, 170) 
 }
